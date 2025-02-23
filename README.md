@@ -4,10 +4,6 @@
 
 This is a portfolio website, for helping people to learn about me and to contact me.
 
-## Code Standards
-
-This project will follow the Code Guide Standards for HTML and CSS [https://codeguide.co/].  I'll also try if possible to follow PSR-2: Coding Style for PHP.
-
 ## Motivation
 
 I am doing this project to set up a portfolio website.  My goal is to use semantically correct HTML, use as little JavaScript as possible, and to make this website Frameworkless [https://www.frameworklessmovement.org/].
