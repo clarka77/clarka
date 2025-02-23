@@ -1,0 +1,7 @@
+# www.mcanerin.com 
+
+# Disallows cgi-bin and images
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /images/

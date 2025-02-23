@@ -1,0 +1,40 @@
+/* PROJECT */
+
+	Site Name:   Clark A
+	Site URL:    https://www.clarka.me
+	Created:     2025/24/02
+	Standards:   HTML5, CSS3, PHP
+	Components:  Frameworkless
+	Software:    Hand-Coded
+	Web Design:  Clark @ clarka77
+
+/* DEVELOPER */
+
+	Name:        Clark Alford
+	Nickname:    Dropshipping Dynamo
+	Title:       Managing Director, Always Online LLC
+	Location:    Wyoming, USA
+	Blog:        I'm not an Influencer; I'm a Creator
+	Contact:     https://www.clarka.me/contact.php
+
+/* SOCIAL */
+
+	GitHub:      https://github.com/clarka77
+	Linkedin:    https://www.linkedin.com/in/clarka2
+	Twitter:     https://x.com/clarka77
+	CodePen:     https://codepen.io/clarka77
+
+/* META */
+
+	���Getting a quality website is not an expenses but rather an investment.���
+	��� Dr. Christopher Dayagdag
+
+/* TEAM WOULD LIKE TO THANK */
+
+	Humans TXT: We Are People, Not Machines
+	Email: hello@humanstxt.org
+	Site: http://humanstxt.org
+	Twitter: @humanstxt
+	Location: World Wide Web, Internet
+
+	To anyone else who shares, likes, comments, and contributes!
