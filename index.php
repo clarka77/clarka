@@ -28,12 +28,12 @@
 		<meta name="rating" content="general"><!-- general, mature, restricted, 14 years, safe for kids -->
 
     <!-- OpenGraph Meta Tags -->
-    <meta property="og:title" content="Clark A - Official Website">
+    <meta property="og:title" content="Clark W - Official Website">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://www.clarka.me/images/og.webp"><!-- 1200x630 [absolute link only] -->
-    <meta property="og:url" content="https://www.clarka.me">
+    <meta property="og:image" content="https://www.clarkw.me/images/og.webp"><!-- 1200x630 [absolute link only] -->
+    <meta property="og:url" content="https://www.clarkw.me">
     <meta property="og:locate" content="en">
-    <meta property="og:site_name" content="Clark A">
+    <meta property="og:site_name" content="Clark W">
     <meta name='og:description' content='**💻 Web Developer turned 🚀 Dropshipping Dynamo. 🔍 A price discrepancy hunter capitalizing on 🌐 cross-marketplace valuation gaps 💰**'>
 
     <!-- Bing Geo Meta Tags -->
@@ -50,14 +50,14 @@
     <link rel="preload" href="fonts/lora-v35-latin-regular.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" as="image" href="images/profile_big.webp">
 
-    <title>Clark A&nbsp;&#62;&nbsp;Bio</title>
+    <title>Clark W&nbsp;&#62;&nbsp;Bio</title>
 
     <!-- Favicons -->
     <link rel="icon" type="image/png" href="images/favicon/favicon-96x96.png" sizes="96x96" />
     <link rel="icon" type="image/svg+xml" href="images/favicon/favicon.svg" />
     <link rel="shortcut icon" href="images/favicon/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png" />
-    <meta name="apple-mobile-web-app-title" content="Clark A" />
+    <meta name="apple-mobile-web-app-title" content="Clark W" />
     <link rel="manifest" href="images/favicon/site.webmanifest" />
 
     <!-- CSS -->
@@ -98,7 +98,7 @@
               <header>
                 <label for="theme-switch" class="switch-label"></label>
               </header>
-              <h1>Greetings, I'm Clark Alford</h1>
+              <h1>Greetings, I'm Clark Wakil</h1>
               <p class="title">Visionary Web Developer and Ecommerce Architect</p>
               <p>I stand at the intersection of technical mastery and entrepreneurial innovation, crafting digital ecosystems that empower businesses to thrive in competitive marketplaces.  As a seasoned WordPress Developer, I transform abstract ideas into dynamic, user-centric websites that serve as cornerstones for brand growth.  I specialize in translating visions into fully functional digital experiences.</p>
               <p>Beyond web development, I've pioneered strategies in multi-platform arbitrage, demonstrating an uncanny ability to identify and exploit pricing disparities across global marketplaces.  Operating as a "valuation gap hunter," I've developed proprietary methodologies for real-time price monitoring, inventory optimization, and cross-border logistics coordination.  This innovative approach enabled the scaling of high-margin product lines by capitalizing on regional demand imbalances and supplier pricing inconsistencies.  Through advanced data analytics and algorithmic pricing models, I've  consistently delivered triple-digit ROI for ecommerce ventures, proving that strategic market positioning can unlock hidden revenue streams even in saturated industries.</p>
@@ -108,15 +108,15 @@
                 <a class="animatelink" target="_blank" href="https://www.linkedin.com/in/clarka2">Linkedin</a>
               </p>
               <div class="copyright">
-                Copyright &copy;2025 - <script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="https://www.frameworklessmovement.org/" target="_blank">Frameworkless Movement</a> | Hand coded by Clark Alford
+                Copyright &copy;2025 - <script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="https://www.frameworklessmovement.org/" target="_blank">Frameworkless Movement</a> | Hand coded by Clark Wakil
               </div><br><br>
             </div>
           </article>
         </main>
       </section>
     </div>
-    <!-- Default Statcounter code for Clark A
-    https://www.clarka.me -->
+    <!-- Default Statcounter code for Clark W
+    https://www.clarkw.me -->
     <script type="text/javascript">
     var sc_project=13088212;
     var sc_invisible=1;

@@ -20,19 +20,19 @@
 		<!-- be sure to change when the site goes live should rely on robots.txt -->
 		<meta name="abstract" content="Dropshipping Dynamo A supply chain innovator scaling niche products with automated order fulfillment">
 		<!-- a very short description of your website; just need on index page -->
-		<meta name="copyright" content="Clark Alford">
+		<meta name="copyright" content="Clark Wakil">
 		<!-- name of owner -->
 		<meta name="no-email-collection" content="https://www.projecthoneypot.org/law_of_harvesting.php">
 		<!-- legal warning not to harvest emails from site -->
 		<meta name="rating" content="general"><!-- general, mature, restricted, 14 years, safe for kids -->
 
     <!-- OpenGraph Meta Tags -->
-    <meta property="og:title" content="Clark A - Resume">
+    <meta property="og:title" content="Clark W - Resume">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://www.clarka.me/images/og.webp"><!-- 1200x630 [absolute link only] -->
-    <meta property="og:url" content="https://www.clarka.me/resume.php">
+    <meta property="og:image" content="https://www.clarkw.me/images/og.webp"><!-- 1200x630 [absolute link only] -->
+    <meta property="og:url" content="https://www.clarkw.me/resume.php">
     <meta property="og:locate" content="en">
-    <meta property="og:site_name" content="Clark A > Resume">
+    <meta property="og:site_name" content="Clark W > Resume">
     <meta name='og:description' content='**💻 Web Developer turned 🚀 Dropshipping Dynamo. 🔍 A price discrepancy hunter capitalizing on 🌐 cross-marketplace valuation gaps 💰**'>
 
     <!-- Bing Geo Meta Tags -->
@@ -49,14 +49,14 @@
     <link rel="preload" href="fonts/lora-v35-latin-regular.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" as="image" href="images/profile_big.webp">
 
-    <title>Clark A&nbsp;&#62;&nbsp;Resume</title>
+    <title>Clark W&nbsp;&#62;&nbsp;Resume</title>
 
     <!-- Favicons -->
     <link rel="icon" type="image/png" href="images/favicon/favicon-96x96.png" sizes="96x96" />
     <link rel="icon" type="image/svg+xml" href="images/favicon/favicon.svg" />
     <link rel="shortcut icon" href="images/favicon/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png" />
-    <meta name="apple-mobile-web-app-title" content="Clark A" />
+    <meta name="apple-mobile-web-app-title" content="Clark W" />
     <link rel="manifest" href="images/favicon/site.webmanifest" />
 
     <!-- CSS -->
@@ -140,15 +140,15 @@
                 <a class="animatelink" target="_blank" href="https://www.linkedin.com/in/clarka2">Linkedin</a>
               </p>
               <div class="copyright">
-                Copyright &copy;2025 - <script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="https://www.frameworklessmovement.org/" target="_blank">Frameworkless Movement</a> | Hand coded by Clark Alford
+                Copyright &copy;2025 - <script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="https://www.frameworklessmovement.org/" target="_blank">Frameworkless Movement</a> | Hand coded by Clark Wakil
               </div><br><br>
             </div>
           </article>
         </main>
       </section>
     </div>
-    <!-- Default Statcounter code for Clark A
-    https://www.clarka.me -->
+    <!-- Default Statcounter code for Clark W
+    https://www.clarkw.me -->
     <script type="text/javascript">
     var sc_project=13088212;
     var sc_invisible=1;

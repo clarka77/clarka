@@ -1,7 +1,7 @@
 /* PROJECT */
 
-	Site Name:   Clark A
-	Site URL:    https://www.clarka.me
+	Site Name:   Clark W
+	Site URL:    https://www.clarkw.me
 	Created:     2025/24/02
 	Standards:   HTML5, CSS3, PHP
 	Components:  Frameworkless
@@ -10,12 +10,12 @@
 
 /* DEVELOPER */
 
-	Name:        Clark Alford
+	Name:        Clark Wakil
 	Nickname:    Dropshipping Dynamo
 	Title:       Managing Director, Always Online LLC
 	Location:    Wyoming, USA
 	Blog:        I'm not an Influencer; I'm a Creator
-	Contact:     https://www.clarka.me/contact.php
+	Contact:     https://www.clarkw.me/contact.php
 
 /* SOCIAL */
 
