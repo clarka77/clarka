@@ -21,7 +21,7 @@
 		<!-- be sure to change when the site goes live should rely on robots.txt -->
 		<meta name="abstract" content="Amazon FBA Optimizer A listing wizard boosting conversion rates through A+ content and review management">
 		<!-- a very short description of your website; just need on index page -->
-		<meta name="copyright" content="Clark Alford">
+		<meta name="copyright" content="Clark Wakil">
 		<!-- name of owner -->
 		<meta name="no-email-collection" content="https://www.projecthoneypot.org/law_of_harvesting.php">
 		<!-- legal warning not to harvest emails from site -->
@@ -71,6 +71,23 @@
 		    window.location = "http://browsehappy.com/";
 		  </script>
 		<![endif]-->
+
+		<!-- Matomo -->
+    <script>
+    	var _paq = window._paq = window._paq || [];
+     	/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+      	var u="//analytics.develop-ment.space/";
+       	_paq.push(['setTrackerUrl', u+'matomo.php']);
+        _paq.push(['setSiteId', '1']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <noscript><p><img referrerpolicy="no-referrer-when-downgrade" src="//analytics.develop-ment.space/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+    <!-- End Matomo Code -->
   </head>
   <body>
     <div class="wrapper">
@@ -115,22 +132,5 @@
         </main>
       </section>
     </div>
-    <!-- Default Statcounter code for Clark W
-    https://www.clarkw.me -->
-    <script type="text/javascript">
-    var sc_project=13088212;
-    var sc_invisible=1;
-    var sc_security="f703bf55";
-    </script>
-    <script type="text/javascript"
-    src="https://www.statcounter.com/counter/counter.js"
-    async></script>
-    <noscript><div class="statcounter"><a title="Web Analytics"
-    href="https://statcounter.com/" target="_blank"><img
-    class="statcounter"
-    src="https://c.statcounter.com/13088212/0/f703bf55/1/"
-    alt="Web Analytics"
-    referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
-    <!-- End of Statcounter Code -->
   </body>
 </html>
